@@ -2,7 +2,7 @@
 
 </p>
 
-<h1>DNS Server configurations as Domain Controller (Admin)</h1>
+<h1>DNS Server Configurations as Domain Controller (Admin)</h1>
 This tutorial outlines the implementation of DNS servers<br />
 
 
